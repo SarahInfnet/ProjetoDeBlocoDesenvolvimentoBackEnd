@@ -1,10 +1,10 @@
 package wheels;
-public class StartUp {
+public class StartUp_notUsed {
     public static void main(String[] args) {
         /* this little program will run through the methods on issueBikeUI
          *calling each in turn, like a user with a front end would do. */
         //first, create the UI
-        IssueBikeUI ui = new IssueBikeUI();
+        IssueBikeUI_notUsed ui = new IssueBikeUI_notUsed();
 
         //1. Show details for chosen bike
         ui.showBikeDetails(100);

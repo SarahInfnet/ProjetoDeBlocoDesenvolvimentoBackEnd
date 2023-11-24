@@ -1,4 +1,7 @@
-package wheels;
+package model;
+
+import model.Bike;
+import model.Customer;
 
 import java.util.Date;
 

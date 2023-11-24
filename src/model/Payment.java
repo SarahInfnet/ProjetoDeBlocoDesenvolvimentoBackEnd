@@ -1,4 +1,7 @@
-package wheels;
+package model;
+
+import model.Customer;
+import model.Hire;
 
 public class Payment {
     //set up the member variables

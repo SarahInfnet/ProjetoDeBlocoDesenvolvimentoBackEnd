@@ -1,8 +1,13 @@
 package wheels;
 
+import model.Bike;
+import model.Customer;
+import model.Hire;
+import model.Payment;
+
 import java.util.Date;
 
-public class IssueBikeUI {
+public class IssueBikeUI_notUsed {
     //set up the member variables
     private Bike chosenBike = null;
     private Customer customer = null;
